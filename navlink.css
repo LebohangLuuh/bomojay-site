@@ -1,7 +1,7 @@
 
 .navbar .nav-item .active {
-    color: #fff; 
-    border-bottom: #ffd500;
+    color: #00a8e8; 
+    border-bottom: #008000;
     border-width: 2px;
     border-top: transparent;
     border-left: transparent;
@@ -12,6 +12,10 @@
   }
 
   .navbar .nav-item .nav-link {
-    color: #fff; 
+    color: #008000; 
+   
+  }
 
+  .navbar {
+    box-shadow: 0 3px 5px rgba(5, 74, 41, 0.5);
   }
